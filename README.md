@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Customer Engineer for Skype/Teams. Not being Dev Pro but someone who likes scripting to make doings easier.
+I'm a Customer Engineer for Skype/Teams. Not being Dev Pro but someone who likes scripting to make doings easier.
 
 <!--
 **pisinger/pisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
