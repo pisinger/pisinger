@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Cloud Security Architect. Not being Dev Pro but someone who likes scripting to make doings easier.
+I am working as a Security Cloud Architect at Microsoft with focusing on XDR, SIEM, SOAR, Threat Hunting and Containers.
 
 <!--
 **pisinger/pisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
